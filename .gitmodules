@@ -1,0 +1,6 @@
+[submodule "spring-security"]
+	path = spring-security
+	url = https://github.com/spring-projects/spring-security.git
+[submodule "gradle-profiler"]
+	path = gradle-profiler
+	url = https://github.com/gradle/gradle-profiler/
